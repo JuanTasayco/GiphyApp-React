@@ -1,0 +1,1 @@
+{"root":["./src/giphyapp.tsx","./src/main.tsx","./src/giphyproject/components/cardgiphy.tsx","./src/giphyproject/components/inputsearch.tsx","./src/giphyproject/helpers/giphy.service.tsx","./src/giphyproject/hooks/giphyhook.tsx","./src/giphyproject/interfaces/card-giphy.interface.ts"],"version":"5.6.3"}
